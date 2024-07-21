@@ -1,0 +1,15 @@
+host="127.0.0.1"
+port=8080
+
+[database]
+database_name="bd-name"
+username="postgres"
+password="postgres"
+host="localhost"
+port=5432
+ssl_mode="disable"
+
+[server_resources]
+cpu=2
+ram=10
+disk=50
